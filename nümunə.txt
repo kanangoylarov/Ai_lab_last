@@ -1,0 +1,3 @@
+Bu birinci sətirdir.
+Bu ikinci sətirdir.
+Bu üçüncü sətirdir.
